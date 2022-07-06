@@ -1,0 +1,24 @@
+{
+  "name": "ogu-shedule",
+  "version": "0.0.0",
+  "description": "Special for Polina <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sedutmir/ogu-shedule.git"
+  },
+  "keywords": [
+    "shedule",
+    "application",
+    "PWA"
+  ],
+  "author": "Sedutmir <sed.ut.mir@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Sedutmir/ogu-shedule/issues"
+  },
+  "homepage": "https://github.com/Sedutmir/ogu-shedule#readme"
+}
